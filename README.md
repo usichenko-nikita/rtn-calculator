@@ -5,11 +5,11 @@ Example of a simple calculator with TurboModules in a React Native app
 
 **Android:**
 
-<img src="assets/android_example.jpg"/>
+<img src="assets/android_example.jpg" width="300" height="600"/>
 
 **iOS:**
 
-<img src="assets/ios_example.jpg"/>
+<img src="assets/ios_example.jpg" width="300" height="600"/>
 
 ## Installation
 
